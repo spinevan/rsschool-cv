@@ -22,3 +22,8 @@ I have more than 7 years of experience in development on 1C Enterprise. These ar
 * https://bitbucket.org/spinevan/
 
 ## My Education
+Vyatka State University
+Specialty: Сomputing complexes, systems and networks.
+
+## English
+A bit of speaking practice abroad.

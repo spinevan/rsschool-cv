@@ -6,10 +6,11 @@
 * Disccord: IvanS#9182
 * https://www.linkedin.com/in/ivan-sinitsyn-48a4611b2/
 
+## Summary
 I am studying android development. I like it and I want to become a cool specialist!
 
-## My Skills:
-* Android: Kotlin and Flutter
+## Skills:
+* Android: Kotlin and Flutter (in the process)
 * 1C Enterprise
 * Web development (Html/CSS , Laravel, Raact JS and Wordpress).
 * Git

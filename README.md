@@ -1,5 +1,5 @@
 # Ivan Sinitsyn
-######Junior Android developer
+###### Junior Android developer
 
 ## Contacts
 * sinitsyniv@gmail.com
